@@ -1,5 +1,5 @@
 # Cheat-Engine-Projects
-A collection of all my cheat engine findings.
+A collection of all my [CheatEngine](https://www.cheatengine.org) findings.
 
 
 | Game | Description |
